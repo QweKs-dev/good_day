@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">9641400949-nook0r8a75thfhb81nlh1qse3urhfg9u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">9641400949</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfE1UVgOq_DPGCEvy4NFk5ux3XNxvdgus</string>
+    <string name="google_app_id" translatable="false">1:9641400949:android:14c2d22a8d6c439a98763c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfE1UVgOq_DPGCEvy4NFk5ux3XNxvdgus</string>
+    <string name="google_storage_bucket" translatable="false">goodday-dev.appspot.com</string>
+    <string name="project_id" translatable="false">goodday-dev</string>
+</resources>
